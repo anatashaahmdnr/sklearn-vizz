@@ -1,3 +1,31 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@anatashaahmdnr 
+richieyuyongpoh
+/
+sklearn-vizz
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+sklearn-vizz/sklearn-vizz.py /
+@richieyuyongpoh
+richieyuyongpoh Update sklearn-vizz.py
+Latest commit 5d376f8 on Jul 14, 2021
+ History
+ 1 contributor
+234 lines (173 sloc)  6.87 KB
+   
 import streamlit as st 
 import numpy as np 
 import pandas as pd
@@ -232,3 +260,16 @@ hide_streamlit_style = """
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
