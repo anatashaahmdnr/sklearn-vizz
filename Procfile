@@ -1,1 +1,1 @@
-sh setup.sh && streamlit run sklearn-vizz.py
+web: sh setup.sh && streamlit run myfirstapp.py
